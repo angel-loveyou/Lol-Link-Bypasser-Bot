@@ -20,7 +20,7 @@ import os
 ##########################################################
 # ENVs
 
-GDTot_Crypt = os.environ.get("CRYPT","bGtsdWJ3bzZLTWFTVlZZT3BxRWxXcEpna3BFZkZjV2NXaUMwY0VwM1E2RT0%3D")
+GDTot_Crypt = os.environ.get("CRYPT","RHdWM1VmNWlIUE5Wd3hGQ0ZUZE5lVUQ0L2JhKzJYNXZyeDUrQWtnamcxbz0%3D")
 Laravel_Session = os.environ.get("Laravel_Session","")
 XSRF_TOKEN = os.environ.get("XSRF_TOKEN","")
 DCRYPT = os.environ.get("DRIVEFIRE_CRYPT","")
