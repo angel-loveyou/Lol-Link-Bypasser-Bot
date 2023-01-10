@@ -2,7 +2,7 @@ import os
 
 
 class Config(object):
-    bot_token = os.environ.get("TOKEN", "5860879943:AAHvB9XGBpBypBOHDZY6x8XJTrwDhfsmXlU")
+    bot_token = os.environ.get("TOKEN", "5860879943:AAGB-DH_yrmc3MRwXWH8QuyzakO2UtFcZxk")
     api_hash = os.environ.get("HASH", "1c521005e55c95e6973ae714d2e9e424") 
     api_id = os.environ.get("ID", "7234399")
     GDTot_Crypt = os.environ.get("CRYPT","RHdWM1VmNWlIUE5Wd3hGQ0ZUZE5lVUQ0L2JhKzJYNXZyeDUrQWtnamcxbz0%3D")
